@@ -4,10 +4,10 @@ Furnace Room
 TREK943793793
 true
 500
-08/29/2110
+08/30/2020
 Aurora Cycles, Seattle
 Vintage Bike
-C:\Users\niles\IdeaProjects\HomeInventoryManagement\src\bicycle.jpg
+C:\Users\niles\IdeaProjects\HomeInventory\src\bicycle.jpg
 TV
 Living Room
 5678
